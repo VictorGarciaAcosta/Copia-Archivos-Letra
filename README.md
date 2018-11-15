@@ -9,3 +9,5 @@ Importante que para copiar el archivo, se debe introducir un archivo existente y
 se ejecutaria en el directorio donde se encuentra el programa y con este comando
 py Copiar_lineas
 y a partir de aqui el programa te pedira archivo a copiar y archivo destino.
+
+Dejo el programa y un archivo para que podais usar como ejemplo.(Es un poema epico, por lo que todas las lineas cumplen la condicion.
